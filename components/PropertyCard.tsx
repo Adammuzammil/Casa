@@ -1,6 +1,6 @@
 import React from "react";
 import { Card, CardContent, CardHeader } from "./ui/card";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import { Bed, Heart } from "lucide-react";
 
 interface Property {

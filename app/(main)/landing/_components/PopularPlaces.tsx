@@ -47,7 +47,8 @@ const PopularPlaces = () => {
               <Image
                 src={city.image}
                 alt={city.name}
-                fill
+                width={160}
+                height={160}
                 className="object-cover w-full h-full"
               />
             </div>
