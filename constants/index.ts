@@ -1,0 +1,98 @@
+export const properties = [
+  {
+    id: 1,
+    name: "Silverwood Manor",
+    address: "6391 Elgin St. Celina, Delaware 10299",
+    price: "3,095",
+    image: "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg",
+    specs: [
+      { name: "beds", value: 2 },
+      { name: "bathrooms", value: 2 },
+      { name: "area", value: "1,008 sqft" },
+    ],
+  },
+  {
+    id: 2,
+    name: "Maple Ridge Villa",
+    address: "1402 Lakeview Drive, Orlando, FL 32801",
+    price: "2,450",
+    image: "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg",
+    specs: [
+      { name: "beds", value: 3 },
+      { name: "bathrooms", value: 2 },
+      { name: "area", value: "1,200 sqft" },
+    ],
+  },
+  {
+    id: 3,
+    name: "The Grand Estate",
+    address: "915 Sunset Blvd, Los Angeles, CA 90069",
+    price: "5,800",
+    image: "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg",
+    specs: [
+      { name: "beds", value: 4 },
+      { name: "bathrooms", value: 3 },
+      { name: "area", value: "2,300 sqft" },
+    ],
+  },
+  {
+    id: 4,
+    name: "Oakwood Heights",
+    address: "372 Hilltop Rd, Austin, TX 73301",
+    price: "2,950",
+    image: "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg",
+    specs: [
+      { name: "beds", value: 3 },
+      { name: "bathrooms", value: 2 },
+      { name: "area", value: "1,500 sqft" },
+    ],
+  },
+  {
+    id: 5,
+    name: "Seaside Haven",
+    address: "209 Ocean View Ave, Miami, FL 33101",
+    price: "4,300",
+    image: "https://images.pexels.com/photos/210617/pexels-photo-210617.jpeg",
+    specs: [
+      { name: "beds", value: 3 },
+      { name: "bathrooms", value: 2 },
+      { name: "area", value: "1,750 sqft" },
+    ],
+  },
+  {
+    id: 6,
+    name: "Lakeside Retreat",
+    address: "540 Willow Ln, Madison, WI 53703",
+    price: "3,200",
+    image: "https://images.pexels.com/photos/259600/pexels-photo-259600.jpeg",
+    specs: [
+      { name: "beds", value: 2 },
+      { name: "bathrooms", value: 2 },
+      { name: "area", value: "1,100 sqft" },
+    ],
+  },
+  {
+    id: 7,
+    name: "Cedar Grove Bungalow",
+    address: "87 Forest Dr, Portland, OR 97201",
+    price: "2,780",
+    image: "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg",
+    specs: [
+      { name: "beds", value: 2 },
+      { name: "bathrooms", value: 1 },
+      { name: "area", value: "950 sqft" },
+    ],
+  },
+  {
+    id: 8,
+    name: "Hillcrest Mansion",
+    address: "101 Kings Way, San Francisco, CA 94133",
+    price: "6,750",
+    image: "https://images.pexels.com/photos/534174/pexels-photo-534174.jpeg",
+    specs: [
+      { name: "beds", value: 5 },
+      { name: "bathrooms", value: 4 },
+      { name: "area", value: "3,100 sqft" },
+    ],
+  },
+];
